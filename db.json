@@ -1,14 +1,20 @@
 {
-  "comments": [
-    {
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-    ]
+	"events": [
+		{
+			"id": 1,
+			"title": "Soccer Practice",
+			"description": "Practice soccer with the boys.",
+			"location": "Forest Park",
+			"date": "10-7-2022",
+			"time": "9AM"
+		},
+		{
+			"id": 2,
+			"title": "Wash dishes",
+			"description": "Keep it clean",
+			"location": "kitchen",
+			"date": "10-6-2022",
+			"time": "9PM"
+		}
+	]
 }
