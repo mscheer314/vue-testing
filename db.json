@@ -1,3 +1,14 @@
 {
-  "name":"Mark"
+  "comments": [
+    {
+"id": 1,
+"body": "some comment",
+"postId": 1
+},
+{
+"id": 2,
+"body": "some comment",
+"postId": 1
+}
+    ]
 }
